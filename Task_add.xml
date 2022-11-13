@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <genre>
+        <movie_genre>Биография
+            <film>
+                <name>Гамильтон</name>
+                <producer>Томас Каил</producer>
+                <release_date>2015</release_date>
+                <contry_of_origin>США</contry_of_origin>
+            </film>
+            <film>
+                <name>Список Шиндлера</name>
+                <producer>Стивен Спилберг</producer>
+                <release_date>1993</release_date>
+                <contry_of_origin>США</contry_of_origin>
+            </film>
+            <film>
+                <name>1+1</name>
+                <producer>Оливье Накаш</producer>
+                <release_date>2011</release_date>
+                <contry_of_origin>Франция</contry_of_origin>
+            </film>
+            <film>
+                <name>Элизабет</name>
+                <producer>Свен Оффен</producer>
+                <release_date>2005</release_date>
+                <contry_of_origin>Австрия</contry_of_origin>
+            </film>
+        </movie_genre>
+        <movie_genre>Комедия
+            <film>
+                <name>Уровень тревоги:Полночь</name>
+                <producer>Такер Гейтс</producer>
+                <release_date>2011</release_date>
+                <contry_of_origin>Великобритания</contry_of_origin>
+            </film>
+            <film>
+                <name>Истории в кино: Однажды в парке</name>
+                <producer>Стас Шеминов</producer>
+                <release_date>2022</release_date>
+                <contry_of_origin>Россия</contry_of_origin>
+            </film>
+            <film>
+                <name>Друзья: Еще один эпизод перед последним - Десят Лет Друзей</name>
+                <producer>Лорна Дэвис</producer>
+                <release_date>2004</release_date>
+                <contry_of_origin>США</contry_of_origin>
+            </film>
+            <film>
+                <name>Двенадцатая ночь</name>
+                <producer>Тим Кэрролл</producer>
+                <release_date>2012</release_date>
+                <contry_of_origin>Великобритания</contry_of_origin>
+            </film>
+        </movie_genre>
+        <movie_genre>Анимэ
+            <film>
+                <name>Унесённые призраками</name>
+                <producer>Хаяо Миядзаки</producer>
+                <release_date>2001</release_date>
+                <contry_of_origin>Япония</contry_of_origin>
+            </film>
+            <film>
+                <name>Гинтама 2</name>
+                <producer>Ёити Фудзита</producer>
+                <release_date>2013</release_date>
+                <contry_of_origin>Япония</contry_of_origin>
+            </film>
+            <film>
+                <name>Истребитель демонов: Гора Натагумо</name>
+                <producer>Харуо Сотодзаки</producer>
+                <release_date>2020</release_date>
+                <contry_of_origin>Япония</contry_of_origin>
+            </film>
+            <film>
+                <name>День, когда я приобрела звезду</name>
+                <producer>Хаяо Миядзаки</producer>
+                <release_date>2006</release_date>
+                <contry_of_origin>Япония</contry_of_origin>
+            </film>
+        </movie_genre>
+        <movie_genre>Вестерн
+            <film>
+                <name>Хорший, плохой, злой</name>
+                <producer>Серджио Леоне</producer>
+                <release_date>1996</release_date>
+                <contry_of_origin>Италия</contry_of_origin>
+            </film>
+            <film>
+                <name>Джанкго освобожденный</name>
+                <producer>Квентин Тарантино</producer>
+                <release_date>2012</release_date>
+                <contry_of_origin>США</contry_of_origin>
+            </film>
+            <film>
+                <name>Назад в будущее 3</name>
+                <producer>Роберт Земекис</producer>
+                <release_date>1990</release_date>
+                <contry_of_origin>США</contry_of_origin>
+            </film>
+            <film>
+                <name>На несколько долларов больше</name>
+                <producer>Серджио Леоне</producer>
+                <release_date>1965</release_date>
+                <contry_of_origin>Италия</contry_of_origin>
+            </film>
+        </movie_genre>
+        <movie_genre>Драма
+            <film>
+                <name>Побез из Шоушенка</name>
+                <producer>Фрэнк Дарабонт</producer>
+                <release_date>1994</release_date>
+                <contry_of_origin>США</contry_of_origin>
+            </film>
+            <film>
+                <name>Зеленая миля</name>
+                <producer>Фрэнк Дарабонт</producer>
+                <release_date>1999</release_date>
+                <contry_of_origin>США</contry_of_origin>
+            </film>
+            <film>
+                <name>Форрест Гамп</name>
+                <producer>Роберт Земекис</producer>
+                <release_date>1994</release_date>
+                <contry_of_origin>США</contry_of_origin>
+            </film>
+            <film>
+                <name>Собор Парижской Богоматери</name>
+                <producer>Жиль Амаду</producer>
+                <release_date>1998</release_date>
+                <contry_of_origin>Франция</contry_of_origin>
+            </film>
+        </movie_genre>
+    </genre>    
+</catalog>
